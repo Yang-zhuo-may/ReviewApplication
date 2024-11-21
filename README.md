@@ -1,6 +1,5 @@
-This project is my first .NET web application, created as a part of my practice to practice and understand the fundamentals of .NET development.
-
-This project is a .NET web application designed as a tool to review. The application allows users to create, edit, and delete flashcards containing questions and answers.
+This project is my first .NET web application, created as part of my efforts to learn and understand the fundamentals of .NET development.
+This project is a .NET web application designed as a tool to reviewing knowledge. It allows users to create, edit, and delete flashcards containing questions and answers.
 
 
 ![Capture d'écran 2024-11-21 143159](https://github.com/user-attachments/assets/4dbeec5a-5265-4624-b7a1-6c97c474b936)
